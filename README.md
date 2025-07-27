@@ -41,7 +41,7 @@ laravel-mini-cart/
 
 ---
 
-## 🧑‍💻 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the Repository
 ```
