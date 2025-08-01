@@ -31,7 +31,7 @@ RUN composer install --no-interaction --prefer-dist --optimize-autoloader
 # COPY .env.example .env
 
 # Generate Laravel app key
-RUN php artisan key:generate
+#RUN php artisan key:generate
 
 # Expose port used by Laravel's internal server (Render listens on 10000)
 EXPOSE 10000
